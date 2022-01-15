@@ -607,6 +607,11 @@ progress {
   height: auto;
 }
 
+.img-fluid-hs {
+  max-width: 100%;
+  height: 500px;
+}
+
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
@@ -7137,6 +7142,11 @@ textarea.form-control-lg {
 
 .w-100 {
   width: 100% !important;
+}
+
+.fixed-size {
+  width: 500px;
+  height: 600px;
 }
 
 .w-auto {
